@@ -10,11 +10,7 @@ Desenvolvedor fullStack pleno
 
 ## 📈 Minhas Estatísticas no GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=feadonai123&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=feadonai123&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Contribuições recentes](https://activity-graph.herokuapp.com/graph?username=feadonai123&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔗 Acesse meu Portfólio
 
