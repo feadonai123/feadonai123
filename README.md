@@ -14,7 +14,7 @@ Desenvolvedor fullStack pleno
 
 ## 🔗 Acesse meu Portfólio
 
-[![Portfólio](https://img.shields.io/badge/Portfolio-Visitar-blue)]([LINK_PARA_SEU_PORTFOLIO](https://portfolio-feadonai123.vercel.app))
+[![Portfólio](https://img.shields.io/badge/Portfolio-Visitar-blue)](https://portfolio-feadonai123.vercel.app)
 
 ---
 
