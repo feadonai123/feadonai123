@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Full Stack Software Engineer with 4 years of experience building scalable web systems and distributed applications, with a strong focus on backend development using Node.js.
+Full Stack Software Engineer with 5 years of experience building scalable web systems and distributed applications, with a strong focus on backend development using Node.js.
 
 I have a solid foundation in computer science and programming fundamentals, supported by my background in Information Systems and Electronics. My experience includes designing backend services and developing frontend applications with React and Next.js, all running on cloud infrastructure such as AWS.
 
